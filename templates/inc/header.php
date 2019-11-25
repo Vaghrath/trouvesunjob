@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Trouves Un Job</title>
-	<link rel="stylesheet" href="https://bootswatch.com/3/slate/bootstrap.min.css">
+	<link rel="stylesheet" href="https://bootswatch.com/3/readable/bootstrap.min.css">
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
